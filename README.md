@@ -50,21 +50,18 @@ A full-stack food delivery web application built using the MERN stack. This proj
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home](./screenshots/home.png)
+## 📸 Screenshots
 
-### 🍕 Food Listing
-![Food List](./screenshots/food-list.png)
+<p align="center">
+  <img src=".home.png" width="45%"/>
+  <img src=".food-list.png" width="45%"/>
+</p>
 
-### 🛒 Cart Page
-![Cart](./screenshots/cart.png)
-
-### 💳 Checkout Page
-![Checkout](./screenshots/checkout.png)
-
-### 🧑‍💼 Admin Panel
-![Admin](./screenshots/admin.png)
-
+<p align="center">
+  <img src=".cart.png" width="45%"/>
+  <img src=".myorders.png" width="45%"/>
+  <img src="admin.png" width="45%"/>
+</p>
 ---
 
 ## ⚙️ Installation & Setup
