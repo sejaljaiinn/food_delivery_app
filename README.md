@@ -53,13 +53,13 @@ A full-stack food delivery web application built using the MERN stack. This proj
 ## 📸 Screenshots
 
 <p align="center">
-  <img src=".home.png" width="45%"/>
-  <img src=".food-list.png" width="45%"/>
+  <img src="home.png" width="45%"/>
+  <img src="food-list.png" width="45%"/>
 </p>
 
 <p align="center">
-  <img src=".cart.png" width="45%"/>
-  <img src=".myorders.png" width="45%"/>
+  <img src="cart.png" width="45%"/>
+  <img src="myorders.png" width="45%"/>
   <img src="admin.png" width="45%"/>
 </p>
 ---
