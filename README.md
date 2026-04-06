@@ -6,9 +6,9 @@ A full-stack food delivery web application built using the MERN stack. This proj
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend: https://your-frontend-link.vercel.app  
-- ⚙️ Backend API: https://your-backend-link.onrender.com  
-
+- 🌐 Frontend:https://food-delivery-app-frontend-v732.onrender.com
+- 🌐 Admin:https://food-delivery-app-admin-84w9.onrender.com 
+- ⚙️ Backend API:https://food-delivery-app-backend-cef0.onrender.com
 ---
 
 ## 🧾 Features
