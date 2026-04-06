@@ -50,7 +50,6 @@ A full-stack food delivery web application built using the MERN stack. This proj
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
 
 <p align="center">
   <img src="home.png" width="45%"/>
@@ -68,16 +67,17 @@ A full-stack food delivery web application built using the MERN stack. This proj
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/sejaljaiinn/food_delivery_app.git
 cd your-repo
 2. Install dependencies
 Backend
+cd backend
 npm install
 Frontend
 cd frontend
 npm install
-3. Environment Variables
 
+3. Environment Variables
 Create a .env file in the root:
 
 MONGO_URI=your_mongodb_connection_string
